@@ -628,6 +628,10 @@ img {
     height: 137px;
   }
 
+  .readers-images {
+    justify-content: space-evenly;
+  }
+
   .footer {
     padding-left: 0;
   }
